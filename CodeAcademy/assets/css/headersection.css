@@ -1,0 +1,21 @@
+.social-media-links a img{
+    width: 15px;
+}
+
+.social-media-links a{
+    margin-left: 20px;
+}
+
+.social-media-links{
+    margin-left: 0;
+}
+
+.header img{
+    width: 15px;
+}
+
+.header .address-text{
+    font-size: 12px;
+    font-family: Light;
+}
+
